@@ -55,7 +55,7 @@ The objectives of this analysis are to:
 The Tableau dashboard focuses on **business and operational insights**, intentionally
 prioritizing clarity and actionability over statistical complexity.
 
-![Dashboard Preview](https://public.tableau.com/app/profile/muhammad.ziko.ananda.setyawan/viz/Coffee_Sales_17668420189440/CoffeeSalesDashboard)
+[Dashboard Preview](https://public.tableau.com/app/profile/muhammad.ziko.ananda.setyawan/viz/Coffee_Sales_17668420189440/CoffeeSalesDashboard)
 
 Key dashboard components include:
 - Average revenue by hour
